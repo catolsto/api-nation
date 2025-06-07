@@ -4,7 +4,6 @@
     "name": "BLACK T-SHIRT",
     "price": 21,
     "image": "https://example.com/images/black-tshirt.jpg",
-    "category": "t-shirt",
     "description": "Regular-fit T-shirt made from premium 100% heavyweight cotton jersey."
   },
   {
@@ -12,7 +11,6 @@
     "name": "WHITE T-SHIRT",
     "price": 20,
     "image": "https://example.com/images/white-tshirt.jpg",
-    "category": "t-shirt",
     "description": "Classic white T-shirt with a ribbed crew neckline and short sleeves."
   },
   {
@@ -20,7 +18,6 @@
     "name": "GRAPHIC TEE",
     "price": 25,
     "image": "https://example.com/images/graphic-tee.jpg",
-    "category": "t-shirt",
     "description": "Cotton T-shirt with a bold front graphic print and relaxed fit."
   },
   {
@@ -28,7 +25,6 @@
     "name": "BLUE DENIM JACKET",
     "price": 65,
     "image": "https://example.com/images/denim-jacket.jpg",
-    "category": "jacket",
     "description": "Medium-wash denim jacket with front pockets and button closure."
   },
   {
@@ -36,7 +32,6 @@
     "name": "HOODED SWEATSHIRT",
     "price": 40,
     "image": "https://example.com/images/hoodie.jpg",
-    "category": "hoodie",
     "description": "Soft cotton-blend hoodie with kangaroo pocket and drawstring hood."
   },
   {
@@ -44,7 +39,6 @@
     "name": "BLACK JEANS",
     "price": 50,
     "image": "https://example.com/images/black-jeans.jpg",
-    "category": "jeans",
     "description": "Slim-fit black denim jeans with a slightly stretchy fabric."
   },
   {
@@ -52,7 +46,6 @@
     "name": "RED FLANNEL SHIRT",
     "price": 35,
     "image": "https://example.com/images/flannel-shirt.jpg",
-    "category": "shirt",
     "description": "Long-sleeve flannel shirt with a classic checkered pattern."
   },
   {
@@ -60,7 +53,6 @@
     "name": "CARGO PANTS",
     "price": 45,
     "image": "https://example.com/images/cargo-pants.jpg",
-    "category": "pants",
     "description": "Utility-style pants with multiple pockets and adjustable cuffs."
   },
   {
@@ -68,7 +60,6 @@
     "name": "BEIGE SWEATER",
     "price": 38,
     "image": "https://example.com/images/beige-sweater.jpg",
-    "category": "sweater",
     "description": "Lightweight knit sweater perfect for layering in cooler months."
   },
   {
@@ -76,7 +67,6 @@
     "name": "RUNNING SNEAKERS",
     "price": 70,
     "image": "https://example.com/images/running-sneakers.jpg",
-    "category": "shoes",
     "description": "Breathable mesh sneakers with cushioned soles for running comfort."
   },
   {
@@ -84,7 +74,6 @@
     "name": "BASEBALL CAP",
     "price": 18,
     "image": "https://example.com/images/baseball-cap.jpg",
-    "category": "accessory",
     "description": "Adjustable cap made of durable cotton with embroidered logo."
   }
 ]
