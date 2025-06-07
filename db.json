@@ -4,7 +4,7 @@
       "id": 1,
       "name": "BLACK T-SHIRT",
       "price": 21,
-      "image": "https://example.com/images/black-tshirt.jpg",
+      "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/664727-800-auto?v=638841516093400000&width=800&height=auto&aspect=true",
       "category": "t-shirt",
       "description": "Regular-fit T-shirt made from premium 100% heavyweight cotton jersey."
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "WHITE T-SHIRT",
       "price": 20,
-      "image": "https://example.com/images/white-tshirt.jpg",
+      "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/663427-800-auto?v=638835480739370000&width=800&height=auto&aspect=true",
       "category": "t-shirt",
       "description": "Classic white T-shirt with a ribbed crew neckline and short sleeves."
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "GRAPHIC TEE",
       "price": 25,
-      "image": "https://example.com/images/graphic-tee.jpg",
+      "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/636960-800-auto?v=638704597514270000&width=800&height=auto&aspect=true",
       "category": "t-shirt",
       "description": "Cotton T-shirt with a bold front graphic print and relaxed fit."
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "BLUE DENIM JACKET",
       "price": 65,
-      "image": "https://example.com/images/denim-jacket.jpg",
+      "image": "https://img.ltwebstatic.com/v4/j/pi/2025/05/17/91/174747243611ba017946b94c02a1827f7eba1ead08_thumbnail_900x.webp",
       "category": "jacket",
       "description": "Medium-wash denim jacket with front pockets and button closure."
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "HOODED SWEATSHIRT",
       "price": 40,
-      "image": "https://example.com/images/hoodie.jpg",
+      "image": "https://img.ltwebstatic.com/images3_pi/2024/11/21/a9/17321826174c82d8265c01adb3b1df3a5db5a58d1c_thumbnail_900x.webp",
       "category": "hoodie",
       "description": "Soft cotton-blend hoodie with kangaroo pocket and drawstring hood."
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "BLACK JEANS",
       "price": 50,
-      "image": "https://example.com/images/black-jeans.jpg",
+      "image": "https://img.ltwebstatic.com/v4/j/spmp/2025/03/30/c3/17433189869beaa16de8ac779bff869e926dfedfa7_thumbnail_900x.webp",
       "category": "jeans",
       "description": "Slim-fit black denim jeans with a slightly stretchy fabric."
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "name": "RED FLANNEL SHIRT",
       "price": 35,
-      "image": "https://example.com/images/flannel-shirt.jpg",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S0ff3a4a86c154780a62375d4702646beT.jpg_960x960q75.jpg_.avif",
       "category": "shirt",
       "description": "Long-sleeve flannel shirt with a classic checkered pattern."
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "name": "CARGO PANTS",
       "price": 45,
-      "image": "https://example.com/images/cargo-pants.jpg",
+      "image": "https://img.ltwebstatic.com/images3_spmp/2024/10/24/d6/1729750825ddcc75f03ca244d05782c7e164423430_thumbnail_900x.webp",
       "category": "pants",
       "description": "Utility-style pants with multiple pockets and adjustable cuffs."
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "name": "BEIGE SWEATER",
       "price": 38,
-      "image": "https://example.com/images/beige-sweater.jpg",
+      "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/650955-800-auto?v=638763388887730000&width=800&height=auto&aspect=true",
       "category": "sweater",
       "description": "Lightweight knit sweater perfect for layering in cooler months."
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "name": "RUNNING SNEAKERS",
       "price": 70,
-      "image": "https://example.com/images/running-sneakers.jpg",
+      "image": "https://img.ltwebstatic.com/images3_pi/2025/02/20/9c/17400153988b6694a59431d40462945ed5ecfd0ad6_thumbnail_900x.webp",
       "category": "shoes",
       "description": "Breathable mesh sneakers with cushioned soles for running comfort."
     },
@@ -84,7 +84,7 @@
       "id": 11,
       "name": "BASEBALL CAP",
       "price": 18,
-      "image": "https://example.com/images/baseball-cap.jpg",
+      "image": "https://img.ltwebstatic.com/images3_spmp/2023/08/26/17/1693054264de64ecf6e188c649912dd298382a3c5a_thumbnail_900x.webp",
       "category": "accessory",
       "description": "Adjustable cap made of durable cotton with embroidered logo."
     }
