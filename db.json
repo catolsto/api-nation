@@ -1,4 +1,5 @@
-[
+{
+"items": [
   {
     "id": 1,
     "name": "BLACK T-SHIRT",
@@ -77,4 +78,4 @@
     "description": "Adjustable cap made of durable cotton with embroidered logo."
   }
 ]
-
+}
