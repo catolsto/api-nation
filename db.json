@@ -1,82 +1,91 @@
 [
-    {
-        "id": 1,
-        "name": "BLACK T-SHIRT ILLUSTRATION" ,
-        "price": 21.42,
-        "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/664727-800-auto?v=638841516093400000&width=800&height=auto&aspect=true",
-        "category": "t-shirt",
-        "description": "Regular-fit T-shirt made from premium 100% heavyweight cotton jersey, with a mid-weight of 200g, providing structure and durability without sacrificing softness. Its design features a printed illustration on the front that combines two techniques—plastisol and high-density—creating an attractive and modern embossed effect on the text."
-    },
-    {
-        "id": 2,
-        "name": "BLUE OVERSIZE T-SHIRT ILLUSTRATION" ,
-        "price": 26.23,
-        "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/663427-800-auto?v=638835480739370000&width=800&height=auto&aspect=true",
-        "category": "t-shirt",
-        "description": "Oversized T-shirt made from premium 100% heavyweight cotton jersey, weighing 245g, giving it body, structure, and a sturdy drape. Its design stands out with a high-density print on the front that creates relief on the text, while the back combines plastisol and high-density printing for a visually striking finish. The full back with no armhole provides a cleaner, more contemporary silhouette."
-    },
-    {
-        "id": 3,
-        "name": "GREY CARGO JEANS" ,
-        "price": 40.91,
-        "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/636960-800-auto?v=638704597514270000&width=800&height=auto&aspect=true",
-        "category": "jean",
-        "description": "This cargo garment combines comfort and functionality with a modern and versatile design. Crafted from a blend of high-quality fabrics—100% cotton and a blend of 80% polyester and 20% rayon—it offers a soft feel and a lightweight drape ideal for everyday wear."
-    },
-    {
-        "id": 4,
-        "name": "URBAN VARSITY JACKET" ,
-        "price": 24.07,
-        "image": "https://img.ltwebstatic.com/v4/j/pi/2025/05/17/91/174747243611ba017946b94c02a1827f7eba1ead08_thumbnail_900x.webp",
-        "category": "jacket",
-        "description": "Denim jacket with urban style and overstitched details that add texture and character. It features a team logo print and varsity lettering, inspired by classic collegiate fashion, ideal for a casual and modern look. Perfect for fall and spring, this garment is the ideal choice for festivals and informal events."
-    },
-    {
-        "id": 5,
-        "name": "URBAN DENIM JEANS" ,
-        "price": 17,
-        "image": "https://img.ltwebstatic.com/images3_pi/2024/11/21/a9/17321826174c82d8265c01adb3b1df3a5db5a58d1c_thumbnail_900x.webp",
-        "category": "jean",
-        "description": "The loose-fitting jean fuses comfort and style with a distinctive streetwear aesthetic. Its vintage wash gives it an authentic distressed finish, while the printed graphic adds an artistic touch that elevates any urban outfit. Ideal for those looking to stand out with unique and expressive pieces."
-    },
-    {
-        "id": 6,
-        "name": "GREEN T-SHIRT ILLUSTRATION" ,
-        "price": 16.85,
-        "image": "https://b2cmattelsa.vtexassets.com/arquivos/ids/659574-800-auto?v=638811886052930000&width=800&height=auto&aspect=true",
-        "category": "t-shirt",
-        "description": "This illustrated t-shirt is made from 100% premium cotton, ensuring a soft texture, increased breathability, and a comfortable feel all day long. Its regular fit easily adapts to different body types, offering a relaxed yet well-structured style."
-    },
-    {
-        "id": 7,
-        "name": "LA CASUAL CAP" ,
-        "price": 5.54,
-        "image": "https://img.ltwebstatic.com/v4/j/spmp/2025/03/30/c3/17433189869beaa16de8ac779bff869e926dfedfa7_thumbnail_900x.webp",
-        "category": "headwear",
-        "description": "Los Angeles embroidered baseball cap, designed for men with a casual and modern style. Adjustable for comfort, this piece is ideal for sun protection while complementing any urban outfit. Perfect for use in spring, fall, or during outdoor activities such as travel, the beach, festivals, or parties."
-    },
-    {
-        "id": 8,
-        "name": "TWO-TONE JACKET" ,
-        "price": 28.88,
-        "image": "https://img.ltwebstatic.com/images3_pi/2022/09/19/16635703386fa61dd856ffa7ce3e3633665b243fea_thumbnail_900x.webp",
-        "category": "jacket",
-        "description": "Carly Lawrence varsity jacket with a modern dropped-shoulder design and a figure and lettering print that highlights the collegiate style. The two-tone finish adds a trendy and versatile touch, ideal for casual and urban looks. Perfect for layering during the fall and winter seasons."
-    },
-    {
-        "id": 9,
-        "name": "VINTAGE Y2K T-SHIRT" ,
-        "price": 19.25,
-        "image": "https://ae-pic-a1.aliexpress-media.com/kf/S0ff3a4a86c154780a62375d4702646beT.jpg_960x960q75.jpg_.avif",
-        "category": "t-shirt",
-        "description": "Y2K vintage-style tee with a striking retro hip-hop-inspired letter print, ideal for those looking for a nostalgic look with a contemporary attitude. Its casual Harajuku-style design and relaxed fit provide comfort without sacrificing style, making it a versatile piece for everyday wear."
-    },
-    {
-        "id": 10,
-        "name": "STREET FIT CARGO JEANS" ,
-        "price": 16.85,
-        "image": "https://img.ltwebstatic.com/images3_spmp/2024/10/24/d6/1729750825ddcc75f03ca244d05782c7e164423430_thumbnail_900x.webp",
-        "category": "jean",
-        "description": "Casual cargo pants designed for the modern man who values ​​functionality and style. Crafted with multiple functional pockets and an adjustable drawstring waist, they offer comfort and practicality for everyday wear. Their relaxed fit with a flared leg adds a retro, urban vibe, ideal for contemporary streetwear looks."
-    }
+  {
+    "id": 1,
+    "name": "BLACK T-SHIRT",
+    "price": 21,
+    "image": "https://example.com/images/black-tshirt.jpg",
+    "category": "t-shirt",
+    "description": "Regular-fit T-shirt made from premium 100% heavyweight cotton jersey."
+  },
+  {
+    "id": 2,
+    "name": "WHITE T-SHIRT",
+    "price": 20,
+    "image": "https://example.com/images/white-tshirt.jpg",
+    "category": "t-shirt",
+    "description": "Classic white T-shirt with a ribbed crew neckline and short sleeves."
+  },
+  {
+    "id": 3,
+    "name": "GRAPHIC TEE",
+    "price": 25,
+    "image": "https://example.com/images/graphic-tee.jpg",
+    "category": "t-shirt",
+    "description": "Cotton T-shirt with a bold front graphic print and relaxed fit."
+  },
+  {
+    "id": 4,
+    "name": "BLUE DENIM JACKET",
+    "price": 65,
+    "image": "https://example.com/images/denim-jacket.jpg",
+    "category": "jacket",
+    "description": "Medium-wash denim jacket with front pockets and button closure."
+  },
+  {
+    "id": 5,
+    "name": "HOODED SWEATSHIRT",
+    "price": 40,
+    "image": "https://example.com/images/hoodie.jpg",
+    "category": "hoodie",
+    "description": "Soft cotton-blend hoodie with kangaroo pocket and drawstring hood."
+  },
+  {
+    "id": 6,
+    "name": "BLACK JEANS",
+    "price": 50,
+    "image": "https://example.com/images/black-jeans.jpg",
+    "category": "jeans",
+    "description": "Slim-fit black denim jeans with a slightly stretchy fabric."
+  },
+  {
+    "id": 7,
+    "name": "RED FLANNEL SHIRT",
+    "price": 35,
+    "image": "https://example.com/images/flannel-shirt.jpg",
+    "category": "shirt",
+    "description": "Long-sleeve flannel shirt with a classic checkered pattern."
+  },
+  {
+    "id": 8,
+    "name": "CARGO PANTS",
+    "price": 45,
+    "image": "https://example.com/images/cargo-pants.jpg",
+    "category": "pants",
+    "description": "Utility-style pants with multiple pockets and adjustable cuffs."
+  },
+  {
+    "id": 9,
+    "name": "BEIGE SWEATER",
+    "price": 38,
+    "image": "https://example.com/images/beige-sweater.jpg",
+    "category": "sweater",
+    "description": "Lightweight knit sweater perfect for layering in cooler months."
+  },
+  {
+    "id": 10,
+    "name": "RUNNING SNEAKERS",
+    "price": 70,
+    "image": "https://example.com/images/running-sneakers.jpg",
+    "category": "shoes",
+    "description": "Breathable mesh sneakers with cushioned soles for running comfort."
+  },
+  {
+    "id": 11,
+    "name": "BASEBALL CAP",
+    "price": 18,
+    "image": "https://example.com/images/baseball-cap.jpg",
+    "category": "accessory",
+    "description": "Adjustable cap made of durable cotton with embroidered logo."
+  }
 ]
+
