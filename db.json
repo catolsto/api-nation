@@ -1,81 +1,92 @@
 {
 "items": [
-  {
-    "id": 1,
-    "name": "BLACK T-SHIRT",
-    "price": 21,
-    "image": "https://example.com/images/black-tshirt.jpg",
-    "description": "Regular-fit T-shirt made from premium 100% heavyweight cotton jersey."
-  },
-  {
-    "id": 2,
-    "name": "WHITE T-SHIRT",
-    "price": 20,
-    "image": "https://example.com/images/white-tshirt.jpg",
-    "description": "Classic white T-shirt with a ribbed crew neckline and short sleeves."
-  },
-  {
-    "id": 3,
-    "name": "GRAPHIC TEE",
-    "price": 25,
-    "image": "https://example.com/images/graphic-tee.jpg",
-    "description": "Cotton T-shirt with a bold front graphic print and relaxed fit."
-  },
-  {
-    "id": 4,
-    "name": "BLUE DENIM JACKET",
-    "price": 65,
-    "image": "https://example.com/images/denim-jacket.jpg",
-    "description": "Medium-wash denim jacket with front pockets and button closure."
-  },
-  {
-    "id": 5,
-    "name": "HOODED SWEATSHIRT",
-    "price": 40,
-    "image": "https://example.com/images/hoodie.jpg",
-    "description": "Soft cotton-blend hoodie with kangaroo pocket and drawstring hood."
-  },
-  {
-    "id": 6,
-    "name": "BLACK JEANS",
-    "price": 50,
-    "image": "https://example.com/images/black-jeans.jpg",
-    "description": "Slim-fit black denim jeans with a slightly stretchy fabric."
-  },
-  {
-    "id": 7,
-    "name": "RED FLANNEL SHIRT",
-    "price": 35,
-    "image": "https://example.com/images/flannel-shirt.jpg",
-    "description": "Long-sleeve flannel shirt with a classic checkered pattern."
-  },
-  {
-    "id": 8,
-    "name": "CARGO PANTS",
-    "price": 45,
-    "image": "https://example.com/images/cargo-pants.jpg",
-    "description": "Utility-style pants with multiple pockets and adjustable cuffs."
-  },
-  {
-    "id": 9,
-    "name": "BEIGE SWEATER",
-    "price": 38,
-    "image": "https://example.com/images/beige-sweater.jpg",
-    "description": "Lightweight knit sweater perfect for layering in cooler months."
-  },
-  {
-    "id": 10,
-    "name": "RUNNING SNEAKERS",
-    "price": 70,
-    "image": "https://example.com/images/running-sneakers.jpg",
-    "description": "Breathable mesh sneakers with cushioned soles for running comfort."
-  },
-  {
-    "id": 11,
-    "name": "BASEBALL CAP",
-    "price": 18,
-    "image": "https://example.com/images/baseball-cap.jpg",
-    "description": "Adjustable cap made of durable cotton with embroidered logo."
-  }
-]
+    {
+      "id": 1,
+      "name": "BLACK T-SHIRT",
+      "price": 21,
+      "image": "https://example.com/images/black-tshirt.jpg",
+      "category": "t-shirt",
+      "description": "Regular-fit T-shirt made from premium 100% heavyweight cotton jersey."
+    },
+    {
+      "id": 2,
+      "name": "WHITE T-SHIRT",
+      "price": 20,
+      "image": "https://example.com/images/white-tshirt.jpg",
+      "category": "t-shirt",
+      "description": "Classic white T-shirt with a ribbed crew neckline and short sleeves."
+    },
+    {
+      "id": 3,
+      "name": "GRAPHIC TEE",
+      "price": 25,
+      "image": "https://example.com/images/graphic-tee.jpg",
+      "category": "t-shirt",
+      "description": "Cotton T-shirt with a bold front graphic print and relaxed fit."
+    },
+    {
+      "id": 4,
+      "name": "BLUE DENIM JACKET",
+      "price": 65,
+      "image": "https://example.com/images/denim-jacket.jpg",
+      "category": "jacket",
+      "description": "Medium-wash denim jacket with front pockets and button closure."
+    },
+    {
+      "id": 5,
+      "name": "HOODED SWEATSHIRT",
+      "price": 40,
+      "image": "https://example.com/images/hoodie.jpg",
+      "category": "hoodie",
+      "description": "Soft cotton-blend hoodie with kangaroo pocket and drawstring hood."
+    },
+    {
+      "id": 6,
+      "name": "BLACK JEANS",
+      "price": 50,
+      "image": "https://example.com/images/black-jeans.jpg",
+      "category": "jeans",
+      "description": "Slim-fit black denim jeans with a slightly stretchy fabric."
+    },
+    {
+      "id": 7,
+      "name": "RED FLANNEL SHIRT",
+      "price": 35,
+      "image": "https://example.com/images/flannel-shirt.jpg",
+      "category": "shirt",
+      "description": "Long-sleeve flannel shirt with a classic checkered pattern."
+    },
+    {
+      "id": 8,
+      "name": "CARGO PANTS",
+      "price": 45,
+      "image": "https://example.com/images/cargo-pants.jpg",
+      "category": "pants",
+      "description": "Utility-style pants with multiple pockets and adjustable cuffs."
+    },
+    {
+      "id": 9,
+      "name": "BEIGE SWEATER",
+      "price": 38,
+      "image": "https://example.com/images/beige-sweater.jpg",
+      "category": "sweater",
+      "description": "Lightweight knit sweater perfect for layering in cooler months."
+    },
+    {
+      "id": 10,
+      "name": "RUNNING SNEAKERS",
+      "price": 70,
+      "image": "https://example.com/images/running-sneakers.jpg",
+      "category": "shoes",
+      "description": "Breathable mesh sneakers with cushioned soles for running comfort."
+    },
+    {
+      "id": 11,
+      "name": "BASEBALL CAP",
+      "price": 18,
+      "image": "https://example.com/images/baseball-cap.jpg",
+      "category": "accessory",
+      "description": "Adjustable cap made of durable cotton with embroidered logo."
+    }
+  ]
 }
